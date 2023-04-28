@@ -1,0 +1,13 @@
+@import './sass/colors';
+@import './sass/boostrap';
+@import './sass/frontend';
+
+
+#root{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1 0 auto;
+}
